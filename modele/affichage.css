@@ -1,0 +1,14 @@
+#affichage{
+		font-family:Arial;
+		background:linear-gradient(#B85716, #FCB960);
+	}
+	#affichage{
+		background: transparent;
+		transition: background 0.5s;
+	}
+	
+	#affichage:hover {
+		//background:#FCB960;
+		 background: #666;
+		transition: background 0s;
+	}
